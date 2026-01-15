@@ -103,7 +103,8 @@ export default function BestsellersPage() {
                   )}
                   <BookCard book={book} />
                 </motion.div>
-              ))}n            </div>
+              ))}
+            </div>
           </>
         )}
       </div>
